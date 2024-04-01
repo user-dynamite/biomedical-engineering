@@ -1,0 +1,55 @@
+attrs==22.2.0
+cycler==0.11.0
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+docopt==0.6.2
+eli5==0.13.0
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+et-xmlfile==1.1.0
+graphviz==0.19.1
+imbalanced-learn==0.8.1
+imblearn==0.0
+ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1620912934572/work/dist/ipykernel-5.5.5-py3-none-any.whl
+ipython==5.8.0
+ipython-genutils==0.2.0
+Jinja2==3.0.3
+joblib==1.1.1
+jupyter-client==5.3.4
+jupyter-core==4.5.0
+kiwisolver==1.3.1
+lightgbm==3.3.5
+MarkupSafe==2.0.1
+matplotlib==3.3.4
+mlxtend==0.19.0
+numpy==1.19.5
+opencv-python==4.6.0.66
+openpyxl==3.1.2
+packaging==21.3
+pandas==1.1.5
+pexpect==4.8.0
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+Pillow==8.4.0
+plotly==5.18.0
+prompt-toolkit==1.0.15
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1650904496387/work
+pykwalify==1.8.0
+pyparsing==3.0.7
+pyradiomics==3.0.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyWavelets==1.1.1
+pyzmq==19.0.2
+ruamel.yaml==0.18.3
+ruamel.yaml.clib==0.2.8
+scikit-learn==0.24.2
+scipy==1.5.4
+simplegeneric==0.8.1
+SimpleITK==2.1.1.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tabulate==0.8.10
+tenacity==8.2.2
+threadpoolctl==3.1.0
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1610094701020/work
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1631041982274/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+xgboost==1.5.2
